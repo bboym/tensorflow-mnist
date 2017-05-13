@@ -1,2 +1,2 @@
 # tensorflow-mnist
-mytest,tensorflow
+mytest,tensorflow..
